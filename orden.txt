@@ -1,0 +1,18 @@
+---------------------
+Html
+html ext
+html int
+---------------------
+commit
+---------------------
+css de cada seccion
+unifico el css (veo clases que tengan mismos valores)
+---------------------
+commit
+---------------------
+js elementos a utilizar
+logica 
+testing
+---------------------
+commit
+---------------------
